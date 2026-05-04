@@ -176,7 +176,7 @@ ol {
   border: 1px solid #fff;
   color: #fff;
   font-family: inherit;
-  font-weight: 700; 
+  font-weight: 700;
   font-size: inherit;
   background-color: transparent;
   cursor: pointer;
@@ -239,8 +239,8 @@ ol {
  
 .more-button {
   flex-shrink: 0;
-  width: calc(100% - 4px); 
-  margin: 0 2px 2px; 
+  width: calc(100% - 4px);
+  margin: 0 2px 2px;
 }
  
 .content__list-item {
