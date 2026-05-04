@@ -241,7 +241,6 @@ ol {
   flex-shrink: 0;
   width: calc(100% - 4px); 
   margin: 0 2px 2px; 
-
 }
  
 .content__list-item {
@@ -307,7 +306,7 @@ ol {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   line-height: 0.9;
-  max-width: 196px; 
+  max-width: 196px;
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
 }
@@ -316,9 +315,9 @@ ol {
   min-width: 194px;
   height: 103px;
   object-fit: cover;
-  object-position: center; 
+  object-position: center;
 }
- 
+
 .visually-hidden {
   position: absolute;
   overflow: hidden;
